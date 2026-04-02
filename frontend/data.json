@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "287b1f68-38f2-4993-9f44-6b996d71f3ef",
+      "name": "navya",
+      "email": "navya@gmail.com",
+      "password": "234567",
+      "token": "9f47b8a4-635a-4d6f-910d-0154008577bf"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "fd1dbae6-3b2c-4ee3-8eea-385eba957268",
+      "userId": "287b1f68-38f2-4993-9f44-6b996d71f3ef",
+      "description": "swigggy",
+      "amount": 2000,
+      "date": "2026-03-30",
+      "category": "food",
+      "type": "EXPENSE",
+      "note": "",
+      "month": 3,
+      "year": 2026
+    }
+  ],
+  "budgets": []
+}
